@@ -1,0 +1,13 @@
+ollama
+streamlit==1.33.0
+openai
+
+chromadb
+streamlit 
+pdfplumber 
+langchain
+langchain-core
+langchain-community
+langchain_text_splitters
+unstructured
+unstructured[all-docs]
